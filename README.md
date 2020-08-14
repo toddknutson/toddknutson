@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+I'm a [bioinformatics analyst](https://www.msi.umn.edu/staff/knut0297) at the University of Minnesota. This is my personal GitHub account and contains some simple public repos. Most of my professional projects can be found at my [University's enterprise GitHub site](https://github.umn.edu/knut0297). 
+
+
 <!--
 **toddknutson/toddknutson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
