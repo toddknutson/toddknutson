@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a [bioinformatics analyst](https://www.msi.umn.edu/staff/knut0297) at the University of Minnesota. This is my personal GitHub account and contains some simple public repos. Most of my professional projects can be found at my [University's enterprise GitHub site](https://github.umn.edu/knut0297). 
+I'm a [bioinformatics analyst](https://www.msi.umn.edu/staff/knut0297) at the University of Minnesota. Personal projects can be found in my [repos](https://github.com/toddknutson?tab=repositories), and UMN projects can be found in our MSI Organizations: [umn-msi-lmnp](https://github.com/umn-msi-lmnp) and [umn-msi-mdl](https://github.com/umn-msi-mdl).
 
 
 <!--
